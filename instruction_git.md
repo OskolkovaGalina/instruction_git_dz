@@ -14,7 +14,9 @@
 
 6. Что бы сделать ненумерованные списки нужно в начале текста с пробелом поставить знак звездочка
 
-[Шпаргалка по синтаксису markdown](https://github.com/sandino/Markdown-Cheatsheet#links)
+
+[Шпаргалка по Markdown](https://github.com/sandino/Markdown-Cheatsheet#links)
+
 
 ## Список команд GIT
 
