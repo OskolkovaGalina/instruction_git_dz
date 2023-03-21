@@ -46,6 +46,17 @@
 
 * git ignor - исключает файл из контроля версий
 
+* git branch - выводит список всех веток на экран
+
+* git newbranch (name) - создание новой ветки
+
+* git checkout (name) - переход на другую ветку
+
+* git merdge branch (name) - объединяет ветки
+
+* git merdge lists - добавляет информацию из ветки lists в текущую ветку
+
+
 
 
 
